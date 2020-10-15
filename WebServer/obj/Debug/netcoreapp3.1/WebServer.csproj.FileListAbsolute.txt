@@ -1,0 +1,13 @@
+C:\projects\WebServer\WebServer\bin\Debug\netcoreapp3.1\WebServer.exe
+C:\projects\WebServer\WebServer\bin\Debug\netcoreapp3.1\WebServer.deps.json
+C:\projects\WebServer\WebServer\bin\Debug\netcoreapp3.1\WebServer.runtimeconfig.json
+C:\projects\WebServer\WebServer\bin\Debug\netcoreapp3.1\WebServer.runtimeconfig.dev.json
+C:\projects\WebServer\WebServer\bin\Debug\netcoreapp3.1\WebServer.dll
+C:\projects\WebServer\WebServer\bin\Debug\netcoreapp3.1\WebServer.pdb
+C:\projects\WebServer\WebServer\obj\Debug\netcoreapp3.1\WebServer.csprojAssemblyReference.cache
+C:\projects\WebServer\WebServer\obj\Debug\netcoreapp3.1\WebServer.AssemblyInfoInputs.cache
+C:\projects\WebServer\WebServer\obj\Debug\netcoreapp3.1\WebServer.AssemblyInfo.cs
+C:\projects\WebServer\WebServer\obj\Debug\netcoreapp3.1\WebServer.csproj.CoreCompileInputs.cache
+C:\projects\WebServer\WebServer\obj\Debug\netcoreapp3.1\WebServer.dll
+C:\projects\WebServer\WebServer\obj\Debug\netcoreapp3.1\WebServer.pdb
+C:\projects\WebServer\WebServer\obj\Debug\netcoreapp3.1\WebServer.genruntimeconfig.cache
